@@ -1,0 +1,16 @@
+{
+  "name": "com.gifkit.core",
+  "version": "1.0.0",
+  "displayName": "GifKit",
+  "description": "Lightweight GIF recorder and encoder for Unity. Capture screen frames and export animated GIFs with a simple StartRecording / FinishRecording API.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Bilal Emre Gürkan"
+  },
+  "keywords": [
+    "gif",
+    "recorder",
+    "screenshot",
+    "animation"
+  ]
+}
