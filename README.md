@@ -2,6 +2,8 @@
 
 A lightweight GIF recorder and encoder for Unity. Capture screen frames and export animated GIFs at runtime — no third-party dependencies, no native plugins.
 
+![GifKit Demo](demo.gif)
+
 ## Features
 
 - Simple `StartRecording` / `FinishRecording` API
